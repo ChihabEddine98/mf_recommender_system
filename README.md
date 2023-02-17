@@ -1,6 +1,6 @@
 # Recommender Systems using Matrix Factorization
 
-## Problem Statement & Setup :
+## Problem Statement & Setup
 Matrix factorization is a way to generate low rank matrix when multiplying two differentmatrices, and thanks to that we can assimilate missed reviews, derived by examining theassociations between the users and the items. Hence, we can predict if a user is likely to givea movie high rating or low rating, and given that information the system recommend themovie to that user.
 
 ![enter image description here](https://i.imgur.com/6ja4LSX.png)
