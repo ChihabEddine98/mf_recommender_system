@@ -14,3 +14,7 @@ Our Pipeline can be summarized as follows :
 
 ### Take away : 
 In this project we addressed the problem of Matrix factorization, where we implemented two approaches to solve it which are : stochastic gradient descent and Alternating least squares.Through this study, we can conclude that stochastic gradient descent with biases is a good solution for this problem, since it gives better results and takes less running time.
+
+
+
+TODO hkro
