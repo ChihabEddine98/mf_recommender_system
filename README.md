@@ -17,4 +17,4 @@ In this project we addressed the problem of Matrix factorization, where we imple
 
 
 
-TODO hkro
+TODO hkro / itunes
